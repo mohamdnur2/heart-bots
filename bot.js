@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 
 client.on('ready', () => {
-    +client.user.setGame(`Heartinvite=>-invite`,'https://www.twitch.tv/MeeRcY')
+    +client.user.setGame(`Heartinvite => -invite`,'https://www.twitch.tv/MeeRcY')
 
 });
 
